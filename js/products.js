@@ -25,7 +25,8 @@ const PRODUTOS = [
     nome: "Rédea de lã",
     categoria: "redeas",
     preco: 120,
-    descricao: "Rédea trançada de couro com argolas inox pequenas trançadas.",
+    descricao:
+      " Rédea  de lã trançada com miolo de corda de polipropileno de 8 mm, comprimento de 2,10 mts com argolas de inox e biqueiras trançadas manualmente.",
     imagens: [
       {
         src: "assets/img/redea-trancada.jpg",
@@ -39,7 +40,7 @@ const PRODUTOS = [
     categoria: "cabrestos",
     preco: 120,
     descricao:
-      "Cabresto sete nós confeccionado em corda de poliamida com argola pinheiro DMM com regulagem. Acompanha cabo trançado de três metros. Produto resistente e confortável para o seu animal.",
+      "Cabresto confeccionado em corda de polipropileno de 8 mm com  regulagem, acompanha cabo de 3 mts trançado c/ 5 fios de polipropileno de 5mm com biqueira para desatar do cabresto. Acompanha cabo trançado de três metros.",
     imagens: [
       {
         src: "assets/img/cabresto-sete-nos.jpg",
@@ -57,7 +58,7 @@ const PRODUTOS = [
     categoria: "cabecadas",
     preco: 85,
     descricao:
-      "Cabeçada trançada na corda de três milímetros com argolas e fivelas de inox, regulável. Cabo trançado na trança patriagrosa 3 com regulagem, acompanha cabo trançado de três metros de comprimento.",
+      "Cabeçada Trançada com  cordinha de polipropileno de 3 mm (trança chata de 9 tentos), com argolas e fivelas em inox, possui regulagem.",
     imagens: [
       {
         src: "assets/img/cabecada-trancada.jpg",
@@ -71,11 +72,11 @@ const PRODUTOS = [
   },
   {
     id: "cabresto-personalizado-inox",
-    nome: "Cabresto personalizado com nome do animal",
+    nome: "Cabresto personalizado",
     categoria: "cabrestos",
     preco: 160,
     descricao:
-      "Cabresto personalizado com inox, confeccionado em corda de poliamida de oito milímetros, com regulagem. Acompanha cabo fixo de dois metros. Produto confortável e seguro para o seu animal.",
+      "Cabresto confeccionado em corda de polipropileno de 8 mm com regulagem,  personalizado com nome do animal, acompanha cabo fixo de 3 mts de comprimento",
     imagens: [
       {
         src: "assets/img/cabresto-personalizado.jpg",
