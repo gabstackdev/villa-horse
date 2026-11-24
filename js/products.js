@@ -2,7 +2,7 @@
    Para adicionar um produto, copie um objeto de PRODUTOS e altere os campos.
    preco: número (ex.: 89.9) ou null. Com null aparece "Consulte pelo WhatsApp". */
 
-const WHATSAPP = "5518991176395"; // +55 18 99117-6395
+const WHATSAPP = "18991381618"; // +55 18 99117-6395
 const INSTAGRAM = ""; // ex.: "https://instagram.com/seu_perfil" (vazio = "em breve")
 
 const CATEGORIAS = [
@@ -30,7 +30,6 @@ const PRODUTOS = [
     imagens: [
       {
         src: "assets/img/redea-trancada.jpg",
-        alt: "Rédea trançada nas cores marrom e bege, com argolas de inox e arremates em couro",
       },
     ],
   },
@@ -44,11 +43,9 @@ const PRODUTOS = [
     imagens: [
       {
         src: "assets/img/cabresto-sete-nos.jpg",
-        alt: "Cabresto de corda preta com detalhes amarelos e cabo trançado enrolado ao lado",
       },
       {
         src: "assets/img/cabresto-sete-nos-2.jpg",
-        alt: "Cabresto de corda preta com detalhes verdes e cabo trançado enrolado ao lado",
       },
     ],
   },
@@ -62,11 +59,9 @@ const PRODUTOS = [
     imagens: [
       {
         src: "assets/img/cabecada-trancada.jpg",
-        alt: "Duas cabeçadas trançadas pretas com detalhes em branco e em azul e argolas de inox",
       },
       {
         src: "assets/img/cabecada-trancada-2.jpg",
-        alt: "Cabeçada trançada preta com detalhe amarelo, argola de inox e rédeas trançadas",
       },
     ],
   },
@@ -80,7 +75,6 @@ const PRODUTOS = [
     imagens: [
       {
         src: "assets/img/cabresto-personalizado.jpg",
-        alt: "Cabresto rosa com nome personalizado em miçangas no focinho e cabo preto enrolado",
       },
     ],
   },
