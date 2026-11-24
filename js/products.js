@@ -2,7 +2,7 @@
    Para adicionar um produto, copie um objeto de PRODUTOS e altere os campos.
    preco: número (ex.: 89.9) ou null. Com null aparece "Consulte pelo WhatsApp". */
 
-const WHATSAPP = "18991381618"; // +55 18 99117-6395
+const WHATSAPP = "18991381618";
 const INSTAGRAM = ""; // ex.: "https://instagram.com/seu_perfil" (vazio = "em breve")
 
 const CATEGORIAS = [
